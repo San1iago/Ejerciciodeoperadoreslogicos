@@ -1,0 +1,6 @@
+var_a = True
+var_b = True
+var_c = False
+maquina=var_c and (var_a or var_b)
+print(maquina)
+ Andres Berrio y Deivid Blanco
